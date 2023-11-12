@@ -1,0 +1,11 @@
+**/.next
+**/_next
+**/next.config.js
+**/generated
+**/*.generated.*
+**/*.graphql.d.ts
+**/*.graphqls.d.ts
+
+apps/electron/app
+
+examples/**/*

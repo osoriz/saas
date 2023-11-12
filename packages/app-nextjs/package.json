@@ -1,0 +1,16 @@
+{
+  "name": "@app/nextjs",
+  "version": "0.5.0",
+  "description": "Next.js specific shared code",
+  "private": true,
+  "type": "module",
+  "main": "src/index.ts",
+  "peerDependencies": {
+    "next": ">=13",
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "devDependencies": {
+    "next": "^14.0.1"
+  }
+}
